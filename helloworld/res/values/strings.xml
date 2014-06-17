@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello World</string>
+
+    <string name="start_helloworld">hello world</string> <!-- The phrase used to start the application. -->
+    
+</resources>
