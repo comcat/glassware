@@ -22,7 +22,7 @@ import com.google.android.glass.app.Card;
 
 import android.os.Bundle;
 import android.app.Activity;
-import android.view.Menu;
+//import android.view.Menu;
 import android.view.View;
 
 public class MainActivity extends Activity {
@@ -34,8 +34,8 @@ public class MainActivity extends Activity {
 		/* create a static card */
 		Card c1 = new Card(this);
 		c1.setText("Hello, World!");		// Main text area
-		c1.setFootnote("This's glass");		// Footer
-		View c1_view = c1.toView();
+		c1.setFootnote("This's my first glassware");		// Footer
+		View c1_view = c1.getView();
 		
 		/* Display the card we just created */
 		setContentView(c1_view);
