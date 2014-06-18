@@ -35,7 +35,7 @@ How to build
 Download the gradle-1.11-bin.zip from http://www.gradle.org, unpack it into
 /path/to/gradle-1.11
 
-Install the Android SDK 4.0.3(API 15) and Glass Development Kit Sneak Peek and
+Install the Android SDK 4.4.2(API 19) and 'Glass Development Kit Preview' and
 Android Build Tools 19.0.3 through Android SDK Manager. The SDK is located at
 /path/to/android-sdk-linux
 
